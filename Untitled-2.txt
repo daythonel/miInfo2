@@ -1,0 +1,12 @@
+class Sistema():
+listaPac:
+list =[]
+dict = []
+tuple = []
+class Paciente():
+    self._nombre = str
+    self._cedula = 0
+    self._genero = str
+    self._servi = str
+def getter():
+def set():
